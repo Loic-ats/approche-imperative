@@ -17,6 +17,11 @@ public class DeclarationApp {
 		
 		System.out.println(c);
 		
+		
+		String randomString = "Voici le résultat d’un calcul :\n 1+5=6";
+		
+		System.out.println(randomString);
+		
 	}
 
 }
