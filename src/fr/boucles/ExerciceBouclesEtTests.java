@@ -22,7 +22,7 @@ public class ExerciceBouclesEtTests {
 		/* Afficher l'ensemble des éléments dans l'ordre inverse du tableau */
 		
 				
-		for (nombre=array.length-1; nombre<= 0; nombre--) {
+		for (nombre=array.length-1; nombre >= 0; nombre--) {
 			
 			
 			System.out.println(array[nombre]);
@@ -61,7 +61,7 @@ public class ExerciceBouclesEtTests {
 			
 			}
 		
-		/*  Combiner une boucle et un test de manière à afficher que les entiers impaire  */
+		/* Combiner une boucle et un test de manière à afficher que les entiers impair */
 		
 		for (nombre=0; nombre <= array.length-1; nombre ++) {
 			
