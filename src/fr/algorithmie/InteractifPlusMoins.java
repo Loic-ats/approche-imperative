@@ -18,7 +18,7 @@ public class InteractifPlusMoins {
 		int coups = 0;
 
 		Random r = new Random();
-		int cible = r.nextInt(100);
+		int cible = r.nextInt(99)+1;
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Veuillez saisir un nombre comprit entre 1 et 100");
