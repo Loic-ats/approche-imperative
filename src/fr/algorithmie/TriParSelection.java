@@ -9,7 +9,7 @@ public class TriParSelection {
 		// Implémenter la méthode tri par sélection (classer par ordre croissant)
 				
 		int[] array2 = {3, -8, 17, 5, -1, 4, 0, 6, 2, 11, -5, -4, 8} ;
-		int[] croissant = new int [array2.length];
+		int[] croissant = new int[array2.length];
 		int nombre=0;
 		int low=array2[0];
 		
